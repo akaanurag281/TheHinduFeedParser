@@ -1,5 +1,5 @@
 # TheHinduFeedParser
-Filter The Hindu News relevant for UPSC Civil Services
+Filter The Hindu News relevant for any competetive examination
 
 Upload Previous Year Questions with Embedding  
 
