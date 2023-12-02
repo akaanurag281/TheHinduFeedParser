@@ -1,6 +1,6 @@
 # TheHinduFeedParser
 Filter The Hindu News relevant for UPSC Civil Services
 
-Upload pyq_with_embedding.csv to avoid create embedding, if you are creating embedding the adjust code accordingly  
+Upload Previous Year Questions with Embedding  
 
 Adjust Cosine Similarity as per use case, currently filtered with 0.83  
